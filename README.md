@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🛡️ eJPT Certified Penetration Tester | Top 2% TryHackMe | Offensive Security | Active Directory | Web Application Security | Python Automation
+🛡️ eJPT Certified Penetration Tester | Top 1% TryHackMe | Offensive Security | Active Directory | Web Application Security | Python Automation
 
 🔭 &nbsp;I'm currently working on **ReconVorteX — An advanced reconnaissance framework for bug bounty and attack surface discovery.**  
 🌱 &nbsp;I'm currently learning **Advanced Active Directory Attacks, Red Team Operations, PortSwigger Web Security Academy, Windows Internals, and Bug Bounty Methodologies.**
